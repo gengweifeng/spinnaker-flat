@@ -1,1 +1,1 @@
-FROM quay.io/spinnaker/flat
+FROM quay.io/spinnaker/fiat
